@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Chaitanya Suresh Garud</h1>
 
 <div align="center">
-  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png" alt="Banner">
+  <img src="https://github.com/jaiswaladi246/jaiswaladi246/blob/main/Banner.png.." alt="Banner">
 </div>
 
 <h3 align="center">
