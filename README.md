@@ -33,7 +33,6 @@
 
 - 🌏 Based in Nashik, India
 - 📧 Email: chaitanyagarud019@gmail.com
-- 📱 Phone: +91-7020187652
 - 💼 Currently working as a Technical Support Engineer
 - ⚡ 1.2 years of experience working with cloud admin, DNS, website/email migrations & devops automation
 
