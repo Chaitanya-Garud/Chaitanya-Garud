@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Chaitanya Suresh Garud</h1>
+<h1 align="center">Hey there 👋, I'm Computer engineer turned DevOps specialist </h1>
 
 <div align="center">
   <img src="https://github.com/Chaitanya-Garud/Chaitanya-s_Portfolio/blob/main/DEVOPS%20Banner.png" alt="Banner">
