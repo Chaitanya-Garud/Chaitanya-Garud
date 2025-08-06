@@ -76,7 +76,7 @@
   
   <!-- Code Quality & Security -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="40" height="40"/>
-  <img src="https://github.com/aquasecurity/trivy/raw/main/docs/images/trivy-logo.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo-horizontal-color.svg" width="40" height="40"/>
   
   <!-- Build Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
