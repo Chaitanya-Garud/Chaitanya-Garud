@@ -59,7 +59,6 @@
   
   <!-- Version Control -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="40" height="40"/>
   
   <!-- CI/CD -->
@@ -76,7 +75,7 @@
   
   <!-- Code Quality & Security -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/images/trivy-logo-horizontal-color.svg" width="40" height="40"/>
+
   
   <!-- Build Tools -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40" height="40"/>
