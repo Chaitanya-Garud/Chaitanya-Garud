@@ -1,7 +1,7 @@
 <h1 align="center">Hey there👋, I'm a computer engineer turned DevOps specialist.</h1>
 
 <div align="center">
-  <img src="https://github.com/Chaitanya-Garud/Chaitanya-s_Portfolio/blob/main/CG_Banner_Final.png" alt="Banner">
+  <img src="https://github.com/Chaitanya-Garud/Namma_Yatri/blob/main/CG_Banner_Final.png" alt="Banner">
 </div>
 
 <h3 align="center">
