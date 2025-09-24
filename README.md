@@ -58,12 +58,24 @@
 
 ## CERTIFICATIONS
 
-[![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-623CE4?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.hashicorp.com/en/certification)
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
-[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-[![Azure Administrator Associate](https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
-[![Jenkins LFS167](https://img.shields.io/badge/Jenkins-LFS167-007ACC?style=for-the-badge&logo=jenkins&logoColor=white)](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
-[![Kubernetes LFS158](https://img.shields.io/badge/Kubernetes-LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
+  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/AWS-Cloud-Practitioner-Essentials.png" alt="AWS Cloud Practitioner" style="height:80px; margin-right:10px" />
+</a>
+<a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/">
+  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/LFS167-Introduction%20to%20Jenkins.png" alt="Jenkins LFS167" style="height:80px; margin-right:10px" />
+</a>
+<a href="https://www.oracle.com/cloud/certification/">
+  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/OCI25FNDCFA.jpeg" alt="OCI Certification" style="height:80px; margin-right:10px" />
+</a>
+<a href="https://www.hashicorp.com/en/certification">
+  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/Terraform%20Associate%20(003).png" alt="Terraform Associate" style="height:80px; margin-right:10px" />
+</a>
+<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
+  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/aws%20solution%20architect%20associate.webp" alt="AWS Solutions Architect" style="height:80px; margin-right:10px" />
+</a>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">
+  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/microsoft-certified-associate-badge.png" alt="Azure Administrator" style="height:80px; margin-right:10px" />
+</a>
 
 ---
 
