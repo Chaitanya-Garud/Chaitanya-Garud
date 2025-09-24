@@ -56,6 +56,17 @@
 
 ---
 
+## CERTIFICATIONS
+
+[![HashiCorp Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform_Associate-623CE4?style=for-the-badge&logo=hashicorp&logoColor=white)](https://www.hashicorp.com/en/certification)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+[![AWS Solutions Architect Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+[![Azure Administrator Associate](https://img.shields.io/badge/Azure-Administrator_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/)
+[![Jenkins LFS167](https://img.shields.io/badge/Jenkins-LFS167-007ACC?style=for-the-badge&logo=jenkins&logoColor=white)](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
+[![Kubernetes LFS158](https://img.shields.io/badge/Kubernetes-LFS158-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+
+---
+
 #### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/chiragshewale/](https://www.linkedin.com/in/chaitanya-garud019/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyagarud019@gmail.com) 
