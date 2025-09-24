@@ -56,29 +56,6 @@
 
 ---
 
-## CERTIFICATIONS
-
-<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/AWS-Cloud-Practitioner-Essentials.png" alt="AWS Cloud Practitioner" style="height:80px; margin-right:10px" />
-</a>
-<a href="https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/LFS167-Introduction%20to%20Jenkins.png" alt="Jenkins LFS167" style="height:80px; margin-right:10px" />
-</a>
-<a href="https://www.oracle.com/cloud/certification/">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/OCI25FNDCFA.jpeg" alt="OCI Certification" style="height:80px; margin-right:10px" />
-</a>
-<a href="https://www.hashicorp.com/en/certification">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/Terraform%20Associate%20(003).png" alt="Terraform Associate" style="height:80px; margin-right:10px" />
-</a>
-<a href="https://aws.amazon.com/certification/certified-solutions-architect-associate/">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/aws%20solution%20architect%20associate.webp" alt="AWS Solutions Architect" style="height:80px; margin-right:10px" />
-</a>
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/">
-  <img src="https://raw.githubusercontent.com/Chaitanya-Garud/Chaitanya-s_Portfolio/main/microsoft-certified-associate-badge.png" alt="Azure Administrator" style="height:80px; margin-right:10px" />
-</a>
-
----
-
 #### 🔗 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/chiragshewale/](https://www.linkedin.com/in/chaitanya-garud019/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chaitanyagarud019@gmail.com) 
