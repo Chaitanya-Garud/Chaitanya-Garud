@@ -34,7 +34,7 @@
 - 🌏 Based in Nashik, India
 - 📧 Email: chaitanyagarud019@gmail.com
 - 💼 Currently working as a Technical Support Engineer
-- ⚡ 1.2 years of experience working with cloud admin, DNS, website/email migrations & devops automation
+- ⚡ 2 years of experience working with cloud & devops automation
 
 ---
 
