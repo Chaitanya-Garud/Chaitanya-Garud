@@ -33,7 +33,7 @@
 
 - 🌏 Based in Nashik, India
 - 📧 Email: chaitanyagarud019@gmail.com
-- 💼 Currently working as a Technical Support Engineer
+- 💼 Currently working as a DevOps Engineer
 - ⚡ 2 years of experience working with cloud & devops automation
 
 ---
